@@ -1,0 +1,32 @@
+.bo{
+
+    background-color: rgb(110, 78, 140);
+}
+#myName{
+    font-size: 30px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    top: 50%;
+    margin-top:300px;
+}
+#btn{
+    font-size: 20px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    top: 50%;
+    margin-top:50px;
+}
+
+#text{
+    font-size: 40px;
+    margin: auto;
+    text-align: center;
+    display: flex;
+
+    top: 10%;
+    margin-top:10px;
+}
